@@ -28,6 +28,7 @@ public class TestDataProvider {
 			XSSFCell p= r1.getCell(1);
 			arr[i][0] = u.getStringCellValue();
 			arr[i][1] = p.getStringCellValue();
+			System.out.println("Hello");
 		}
 
 		return arr;
