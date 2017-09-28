@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59954" started-at="2017-09-28T04:22:57Z" finished-at="2017-09-28T04:23:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59954" started-at="2017-09-28T04:22:57Z" finished-at="2017-09-28T04:23:57Z">
+      <class name="org.hcl.testcases.TC_001_Validate_Login_valid_credentials">
+        <test-method status="PASS" signature="generateDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="generateDriverObject" is-config="true" duration-ms="11287" started-at="2017-09-28T09:52:59Z" finished-at="2017-09-28T09:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateDriverObject -->
+        <test-method status="PASS" signature="tcase1(java.lang.String, java.lang.String)[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="tcase1" duration-ms="3894" started-at="2017-09-28T09:53:11Z" data-provider="dp1" finished-at="2017-09-28T09:53:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+        <test-method status="PASS" signature="closeDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="closeDriverObject" is-config="true" duration-ms="1245" started-at="2017-09-28T09:53:14Z" finished-at="2017-09-28T09:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObject -->
+        <test-method status="PASS" signature="generateDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="generateDriverObject" is-config="true" duration-ms="8695" started-at="2017-09-28T09:53:16Z" finished-at="2017-09-28T09:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateDriverObject -->
+        <test-method status="PASS" signature="tcase1(java.lang.String, java.lang.String)[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="tcase1" duration-ms="3892" started-at="2017-09-28T09:53:24Z" data-provider="dp1" finished-at="2017-09-28T09:53:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+        <test-method status="PASS" signature="closeDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="closeDriverObject" is-config="true" duration-ms="972" started-at="2017-09-28T09:53:28Z" finished-at="2017-09-28T09:53:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObject -->
+        <test-method status="PASS" signature="generateDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="generateDriverObject" is-config="true" duration-ms="9155" started-at="2017-09-28T09:53:29Z" finished-at="2017-09-28T09:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateDriverObject -->
+        <test-method status="PASS" signature="tcase1(java.lang.String, java.lang.String)[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="tcase1" duration-ms="3777" started-at="2017-09-28T09:53:38Z" data-provider="dp1" finished-at="2017-09-28T09:53:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+        <test-method status="PASS" signature="closeDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="closeDriverObject" is-config="true" duration-ms="942" started-at="2017-09-28T09:53:42Z" finished-at="2017-09-28T09:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObject -->
+        <test-method status="PASS" signature="generateDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="generateDriverObject" is-config="true" duration-ms="9036" started-at="2017-09-28T09:53:43Z" finished-at="2017-09-28T09:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateDriverObject -->
+        <test-method status="PASS" signature="tcase1(java.lang.String, java.lang.String)[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="tcase1" duration-ms="3822" started-at="2017-09-28T09:53:52Z" data-provider="dp1" finished-at="2017-09-28T09:53:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+        <test-method status="PASS" signature="closeDriverObject()[pri:0, instance:org.hcl.testcases.TC_001_Validate_Login_valid_credentials@6e8dacdf]" name="closeDriverObject" is-config="true" duration-ms="981" started-at="2017-09-28T09:53:56Z" finished-at="2017-09-28T09:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObject -->
+      </class> <!-- org.hcl.testcases.TC_001_Validate_Login_valid_credentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
